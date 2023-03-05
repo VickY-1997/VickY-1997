@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-VIGNESH-Red)](https://stackoverflow.com/users/21250718/vignesh-kumar)
 
 I'm
-Vignesh Kumar From bangalore im doing edureka intern i want to become full stack developer.
+Vignesh Kumar From bangalore im doing edureka intern i want to become a full stack developer.
 
 ![Visitor Count](https://profile-counter.glitch.me/VickY-1997/count.svg)
 
